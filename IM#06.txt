@@ -1,0 +1,3 @@
+Using Buffer for Binary Data
+
+Base64 string: iVBORw0KGgoAAAANSUhEUgAAB4AA....

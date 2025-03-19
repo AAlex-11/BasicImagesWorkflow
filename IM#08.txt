@@ -1,0 +1,2 @@
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4CAMAAADfDTFxAAA
+Content-Security-Policy: The page’s settings blocked the loading of a resource (img-src) at data:image/png;base64,iVBORw0KGgoAAAANSU… because it violates the following directive: “img-src 'self'”

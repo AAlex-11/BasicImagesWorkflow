@@ -1,0 +1,5 @@
+Using stream for Large Files
+
+
+Base64 chunk: <Buffer 69 56 42 4f 52 77 30 4b 47 67 6f 41 41 41 41 4e 53 55 68 45 55 67 41 41 42 34 41 41 41 41 51 34 43 41 4d 41 41 41 44 66 44 54 46 78 41 41 41 42 68 47 ... 75814 more bytes>
+Finished reading file.

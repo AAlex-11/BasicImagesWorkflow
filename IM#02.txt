@@ -1,0 +1,10 @@
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://www.easygifanimator.net/images/samples/video-to-gif-sample.gif.
+(Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 200.
+Error downloading image: TypeError: NetworkError when attempting to fetch resource.
+
+
+Solution - add .htaccess in Apache server
+
+<IfModule mod_headers.c>
+  Header set Access-Control-Allow-Origin "*"
+</IfModule>

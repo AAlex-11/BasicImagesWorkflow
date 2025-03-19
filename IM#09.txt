@@ -1,0 +1,4 @@
+createObjectURL(blob)
+
+
+<img src="blob:http://localhost:63342/f10da726-adee-4416-97c0-52ad73a4a1ad">

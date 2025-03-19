@@ -1,0 +1,3 @@
+Directly read image from FileSystem with Node.js
+
+Base64 string: iVBORw0KGgoAAAANSUhEUgAAB4AA....

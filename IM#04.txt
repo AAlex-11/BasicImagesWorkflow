@@ -1,0 +1,10 @@
+This is Browser specific code, in Node this code is not working - Error: ReferenceError: FileReader is not defined
+
+Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://www.easygifanimator.net/images/samples/video-to-gif-sample.gif. (Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 200.
+Error: TypeError: NetworkError when attempting to fetch resource.
+
+but with local image server working fine
+
+//<body></body>
+
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4CAMAAADfDTFxAAABh...">
